@@ -1,3 +1,4 @@
+/* eslint-disable prettier/prettier */
 import { BaseEntity, Column, Entity, PrimaryGeneratedColumn } from 'typeorm';
 import { BoardStatus } from './board-status.enum';
 
